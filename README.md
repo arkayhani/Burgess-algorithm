@@ -1,3 +1,3 @@
-Project managmer using burgess algorithm.
+Project managmer-burgess algorithm.
 Arash Kayhani
 autumn 2014
